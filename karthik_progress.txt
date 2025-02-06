@@ -1,0 +1,15 @@
+Day 1 : 6 -02-2025
+
+learn:
+*to create a git account
+*git basics
+*html tags -->  <head>,<body>,<a>,<h1>,<link> etc
+*css
+
+Implement:
+*created a css file and Html file
+*give some basic styles in css file
+*started the html file and link with css file
+
+challenges:
+*to create and locate the ssh key
