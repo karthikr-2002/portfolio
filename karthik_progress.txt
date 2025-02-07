@@ -13,3 +13,16 @@ Implement:
 
 challenges:
 *to create and locate the ssh key
+
+
+Day 2 : 07 -02 -2025
+
+learn :
+*html tags--> <div>,<header>,<section>
+*css
+
+implement :
+*created a home page using HTML tags and css
+
+challenges:
+*To style the HTML page
