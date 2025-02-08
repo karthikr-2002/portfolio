@@ -26,3 +26,9 @@ implement :
 
 challenges:
 *To style the HTML page
+
+Day 3 : 08 -02-2025
+
+implement :
+*Added My contacts with portfolio
+*can contact through gmail,github,linkedin
